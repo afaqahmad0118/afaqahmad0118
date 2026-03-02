@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**afaqahmad0118/afaqahmad0118** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi 👋, I'm Afaq Ahmad  
+A passionate Frontend Developer from Pakistan  
 
-Here are some ideas to get you started:
+🔭 I’m currently working on React.js and Next.js  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently learning Backend Development, AI, and Machine Learning  
+
+👯 I’m looking to collaborate on Open-Source and real-world projects  
+
+👨‍💻 All of my projects are available on my GitHub profile  
+
+💬 Ask me about React.js, Next.js, JavaScript, and Frontend Development  
+
+📫 How to reach me: afaqahmad0118@gmail.com  
+
+⚡ Fun fact: I focus on building scalable applications and improving my skills every day  
