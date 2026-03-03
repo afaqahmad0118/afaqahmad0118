@@ -46,7 +46,6 @@ A passionate Frontend Developer from Pakistan
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/) 
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/) 
 [![MCP](https://img.shields.io/badge/MCP-6E6E6E?style=for-the-badge&logo=grey&logoColor=white)](https://en.wikipedia.org/wiki/Model_Context_Protocol) 
-[![GrooveFunnels](https://img.shields.io/badge/Groove_Funnels-FF3366?style=for-the-badge&logo=builder&logoColor=white)](https://www.groovefunnels.com/)
 
 ---
 
