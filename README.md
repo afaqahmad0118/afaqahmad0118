@@ -15,6 +15,9 @@ A passionate Frontend Developer from Pakistan
 
 ### Connect with me
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/afaqahmad0118) 
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" width="60" height="60" alt="CSS3"/>
+</a>
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/afaq-khan-07350425a/) 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:afaqahmad0118@gmail.com)
