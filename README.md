@@ -21,38 +21,59 @@ A passionate Frontend Developer from Pakistan
 
 ---
 
-### Languages & Frameworks
-<div style="display: flex; gap: 40px; flex-wrap: wrap; align-items: center;">
-  <!-- Languages -->
-  <img src="https://github.com/afaqahmad0118/afaqahmad0118/blob/cc77c6b63b44b98736a5596a9af6ca8a30511933/html-5.png" width="70" height="70" alt="HTML5">
-  <img src="https://github.com/afaqahmad0118/afaqahmad0118/blob/31b1186e2a1393f38a78d023ba6f2a15c3833a0f/CSS3.png" width="70" height="70" alt="CSS3">
-  <img src="https://github.com/afaqahmad0118/afaqahmad0118/blob/439217322e6d8d2e3dd190151624e96ec9934068/JavaScript.png" width="70" height="70" alt="JavaScript">
-  <img src="https://github.com/afaqahmad0118/afaqahmad0118/blob/439217322e6d8d2e3dd190151624e96ec9934068/TypeScript.png" width="70" height="70" alt="TypeScript">
-  
-  <!-- Frameworks / Libraries -->
-  <img src="https://github.com/afaqahmad0118/afaqahmad0118/blob/439217322e6d8d2e3dd190151624e96ec9934068/React.png" width="70" height="70" alt="React">
-  <img src="https://github.com/afaqahmad0118/afaqahmad0118/blob/439217322e6d8d2e3dd190151624e96ec9934068/Next.js.png" width="70" height="70" alt="Next.js">
-  <img src="https://github.com/afaqahmad0118/afaqahmad0118/blob/0267267a0a3a8db7666b6e35e925dabc661cadf6/Nuxt%20JS.png" width="70" height="70" alt="Nuxt JS">
-  <img src="https://github.com/afaqahmad0118/afaqahmad0118/blob/439217322e6d8d2e3dd190151624e96ec9934068/Bootstrap.png" width="70" height="70" alt="Bootstrap">
-  <img src="https://github.com/afaqahmad0118/afaqahmad0118/blob/439217322e6d8d2e3dd190151624e96ec9934068/Tailwind%20CSS.png" width="70" height="70" alt="Tailwind CSS">
-  <img src="https://github.com/afaqahmad0118/afaqahmad0118/blob/439217322e6d8d2e3dd190151624e96ec9934068/Material%20UI.png" width="70" height="70" alt="Material UI">
-</div>
+### Technologies & Tools
 
----
+<!-- First Row - 2 Columns -->
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Languages</h3>
+      <div align="center" style="display: flex; gap: 40px; flex-wrap: wrap; align-items: center; justify-content: center;">
+        <img src="https://github.com/afaqahmad0118/afaqahmad0118/blob/cc77c6b63b44b98736a5596a9af6ca8a30511933/html-5.png" width="70" height="70" alt="HTML5">
+        <img src="https://github.com/afaqahmad0118/afaqahmad0118/blob/31b1186e2a1393f38a78d023ba6f2a15c3833a0f/CSS3.png" width="70" height="70" alt="CSS3">
+        <img src="https://github.com/afaqahmad0118/afaqahmad0118/blob/439217322e6d8d2e3dd190151624e96ec9934068/JavaScript.png" width="70" height="70" alt="JavaScript">
+        <img src="https://github.com/afaqahmad0118/afaqahmad0118/blob/439217322e6d8d2e3dd190151624e96ec9934068/TypeScript.png" width="70" height="70" alt="TypeScript">
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Frameworks / Libraries</h3>
+      <div align="center" style="display: flex; gap: 40px; flex-wrap: wrap; align-items: center; justify-content: center;">
+        <img src="https://github.com/afaqahmad0118/afaqahmad0118/blob/439217322e6d8d2e3dd190151624e96ec9934068/React.png" width="70" height="70" alt="React">
+        <img src="https://github.com/afaqahmad0118/afaqahmad0118/blob/439217322e6d8d2e3dd190151624e96ec9934068/Next.js.png" width="70" height="70" alt="Next.js">
+        <img src="https://github.com/afaqahmad0118/afaqahmad0118/blob/0267267a0a3a8db7666b6e35e925dabc661cadf6/Nuxt%20JS.png" width="70" height="70" alt="Nuxt JS">
+        <img src="https://github.com/afaqahmad0118/afaqahmad0118/blob/439217322e6d8d2e3dd190151624e96ec9934068/Bootstrap.png" width="70" height="70" alt="Bootstrap">
+        <img src="https://github.com/afaqahmad0118/afaqahmad0118/blob/439217322e6d8d2e3dd190151624e96ec9934068/Tailwind%20CSS.png" width="70" height="70" alt="Tailwind CSS">
+        <img src="https://github.com/afaqahmad0118/afaqahmad0118/blob/439217322e6d8d2e3dd190151624e96ec9934068/Material%20UI.png" width="70" height="70" alt="Material UI">
+      </div>
+    </td>
+  </tr>
+</table>
 
-### CMS, Cloud & Databases
-<div style="display: flex; gap: 40px; flex-wrap: wrap; align-items: center;">
-  <!-- CMS -->
-  <img src="https://github.com/afaqahmad0118/afaqahmad0118/blob/439217322e6d8d2e3dd190151624e96ec9934068/Drupal.png" width="70" height="70" alt="Drupal">
-  
-  <!-- Cloud platform -->
-  <img src="https://github.com/afaqahmad0118/afaqahmad0118/blob/0267267a0a3a8db7666b6e35e925dabc661cadf6/AWS.png" width="70" height="70" alt="AWS">
-  
-  <!-- Databases -->
-  <img src="https://github.com/afaqahmad0118/afaqahmad0118/blob/0267267a0a3a8db7666b6e35e925dabc661cadf6/MongoDB.png" width="70" height="70" alt="MongoDB">
-  <img src="https://github.com/afaqahmad0118/afaqahmad0118/blob/8c73a2e764173de101a1821fde5357a7c171455c/Firebase.png" width="70" height="70" alt="Firebase">
-  <img src="https://github.com/afaqahmad0118/afaqahmad0118/blob/8c73a2e764173de101a1821fde5357a7c171455c/MySQL.png" width="70" height="70" alt="MySQL">
-</div>
+<!-- Second Row - 3 Columns -->
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3 align="center">CMS</h3>
+      <div align="center" style="display: flex; gap: 40px; flex-wrap: wrap; align-items: center; justify-content: center;">
+        <img src="https://github.com/afaqahmad0118/afaqahmad0118/blob/439217322e6d8d2e3dd190151624e96ec9934068/Drupal.png" width="70" height="70" alt="Drupal">
+      </div>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">Cloud Platform</h3>
+      <div align="center" style="display: flex; gap: 40px; flex-wrap: wrap; align-items: center; justify-content: center;">
+        <img src="https://github.com/afaqahmad0118/afaqahmad0118/blob/0267267a0a3a8db7666b6e35e925dabc661cadf6/AWS.png" width="70" height="70" alt="AWS">
+      </div>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">Databases</h3>
+      <div align="center" style="display: flex; gap: 40px; flex-wrap: wrap; align-items: center; justify-content: center;">
+        <img src="https://github.com/afaqahmad0118/afaqahmad0118/blob/0267267a0a3a8db7666b6e35e925dabc661cadf6/MongoDB.png" width="70" height="70" alt="MongoDB">
+        <img src="https://github.com/afaqahmad0118/afaqahmad0118/blob/8c73a2e764173de101a1821fde5357a7c171455c/Firebase.png" width="70" height="70" alt="Firebase">
+        <img src="https://github.com/afaqahmad0118/afaqahmad0118/blob/8c73a2e764173de101a1821fde5357a7c171455c/MySQL.png" width="70" height="70" alt="MySQL">
+      </div>
+    </td>
+  </tr>
+</table>
 
 ---
 
