@@ -15,6 +15,9 @@ A passionate Frontend Developer from Pakistan
 
 ### Connect with me
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/afaqahmad0118) 
+![image alt]()
+![image alt]()
+![image alt]()
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/afaq-khan-07350425a/) 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:afaqahmad0118@gmail.com)
 
