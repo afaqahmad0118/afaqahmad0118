@@ -1,51 +1,7 @@
-## Hi there 👋
-
-<style>
-.markdown-body table th, 
-.markdown-body table td {
-  border: none !important;
-  background: transparent !important;
-}
-
-.markdown-body table {
-  border-collapse: collapse !important;
-  border: none !important;
-}
-
-.markdown-body table tr {
-  border: none !important;
-}
-
-.markdown-body {
-  --border-color: transparent !important;
-}
-</style>
-
-Hi 👋, I'm Afaq Ahmad  
-A passionate Frontend Developer from Pakistan  
-
-🔭 I’m currently working on React.js and Next.js  
-🌱 I’m currently learning Backend Development, AI, and Machine Learning  
-👯 I’m looking to collaborate on Open-Source and real-world projects  
-👨‍💻 All of my projects are available on my GitHub profile  
-💬 Ask me about React.js, Next.js, JavaScript, and Frontend Development  
-📫 How to reach me: afaqahmad0118@gmail.com  
-⚡ Fun fact: I focus on building scalable applications and improving my skills every day  
-
----
-
-### Connect with me
-<p>
-  <img src="https://github.com/afaqahmad0118/afaqahmad0118/blob/439217322e6d8d2e3dd190151624e96ec9934068/GitHub.png" width="50" height="50" alt="GitHub">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/afaqahmad0118/afaqahmad0118/blob/45a2e0551e309941b38f6f595878c02d854a05f8/LinkedIn.png" width="50" height="50" alt="LinkedIn">
-</p>
-
----
-
 <!-- Row 1: Languages | Frameworks -->
 <table border="0" cellpadding="0" cellspacing="0" style="border:none !important;">
 <tr>
-<td valign="top" style="border:none !important; padding-right: 60px;">
+<td valign="top" style="border:none !important;">
 
 #### Languages
 <p style="border:none !important;">
@@ -75,7 +31,7 @@ A passionate Frontend Developer from Pakistan
 <!-- Row 2: CMS | Cloud Platform | Databases -->
 <table border="0" cellpadding="0" cellspacing="0" style="border:none !important;">
 <tr>
-<td valign="top" style="border:none !important; padding-right: 60px;">
+<td valign="top" style="border:none !important;">
 
 #### CMS
 <p style="border:none !important;">
@@ -83,7 +39,7 @@ A passionate Frontend Developer from Pakistan
 </p>
 
 </td>
-<td valign="top" style="border:none !important; padding-right: 60px;">
+<td valign="top" style="border:none !important;">
 
 #### Cloud Platform
 <p style="border:none !important;">
