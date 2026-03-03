@@ -14,18 +14,16 @@ A passionate Frontend Developer from Pakistan
 ---
 
 ### Connect with me
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/afaqahmad0118) 
-![image alt]()
-![image alt]()
-![image alt]()
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/afaq-khan-07350425a/) 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:afaqahmad0118@gmail.com)
-
+![image alt](https://github.com/afaqahmad0118/afaqahmad0118/blob/439217322e6d8d2e3dd190151624e96ec9934068/GitHub.png)
+![image alt](https://github.com/afaqahmad0118/afaqahmad0118/blob/45a2e0551e309941b38f6f595878c02d854a05f8/LinkedIn.png)
 ---
-
 ### Languages
 <img src="https://github.com/afaqahmad0118/afaqahmad0118/blob/cc77c6b63b44b98736a5596a9af6ca8a30511933/html-5.png" width="50" height="50" alt="HTML5">
 [![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+![image alt]()
+![image alt]()
+![image alt]()
+![image alt]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/) 
 [![Twig](https://img.shields.io/badge/Twig-30B3DB?style=for-the-badge&logo=twig&logoColor=white)](https://twig.symfony.com/)
