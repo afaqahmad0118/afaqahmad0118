@@ -84,7 +84,7 @@ A passionate Frontend Developer from Pakistan
 </td>
 </tr>
 </table>
-
+![Afaq's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=afaqahmad0118&theme=radical)
 <!-- Row 3: Tools -->
 #### Tools
 <p>
