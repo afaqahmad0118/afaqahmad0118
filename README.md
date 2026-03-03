@@ -19,40 +19,30 @@ A passionate Frontend Developer from Pakistan
 ---
 ### Languages
 <img src="https://github.com/afaqahmad0118/afaqahmad0118/blob/cc77c6b63b44b98736a5596a9af6ca8a30511933/html-5.png" width="50" height="50" alt="HTML5">
-[![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-![image alt]()
-![image alt]()
-![image alt]()
-![image alt]()
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/) 
-[![Twig](https://img.shields.io/badge/Twig-30B3DB?style=for-the-badge&logo=twig&logoColor=white)](https://twig.symfony.com/)
-
+![image alt](https://github.com/afaqahmad0118/afaqahmad0118/blob/31b1186e2a1393f38a78d023ba6f2a15c3833a0f/CSS3.png)
+![image alt](https://github.com/afaqahmad0118/afaqahmad0118/blob/439217322e6d8d2e3dd190151624e96ec9934068/JavaScript.png)
+![image alt](https://github.com/afaqahmad0118/afaqahmad0118/blob/439217322e6d8d2e3dd190151624e96ec9934068/TypeScript.png)
 ---
-
 ### Frameworks / Libraries
-[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/) 
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/) 
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/) 
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/) 
-[![Material UI](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)](https://mui.com/) 
-[![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org/)
-
+![image alt](https://github.com/afaqahmad0118/afaqahmad0118/blob/439217322e6d8d2e3dd190151624e96ec9934068/React.png) 
+![image alt](https://github.com/afaqahmad0118/afaqahmad0118/blob/439217322e6d8d2e3dd190151624e96ec9934068/Next.js.png) 
+![image alt](https://github.com/afaqahmad0118/afaqahmad0118/blob/439217322e6d8d2e3dd190151624e96ec9934068/Bootstrap.png) 
+![image alt](https://github.com/afaqahmad0118/afaqahmad0118/blob/439217322e6d8d2e3dd190151624e96ec9934068/Tailwind%20CSS.png) 
+![image alt](https://github.com/afaqahmad0118/afaqahmad0118/blob/439217322e6d8d2e3dd190151624e96ec9934068/Material%20UI.png) 
+![image alt]() 
 ---
-
 ### CMS
-[![Drupal](https://img.shields.io/badge/Drupal-0077C0?style=for-the-badge&logo=drupal&logoColor=white)](https://www.drupal.org/)
-
+![image alt](https://github.com/afaqahmad0118/afaqahmad0118/blob/439217322e6d8d2e3dd190151624e96ec9934068/Drupal.png)
 ---
-
 ### Tools
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/) 
-[![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/) 
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/) 
-[![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)](https://bitbucket.org/) 
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/) 
-[![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://slack.com/) 
-[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/) 
+![image alt](https://github.com/afaqahmad0118/afaqahmad0118/blob/439217322e6d8d2e3dd190151624e96ec9934068/GitHub.png)
+![image alt](https://github.com/afaqahmad0118/afaqahmad0118/blob/439217322e6d8d2e3dd190151624e96ec9934068/GitLab.png)
+![image alt](https://github.com/afaqahmad0118/afaqahmad0118/blob/439217322e6d8d2e3dd190151624e96ec9934068/BitBucket.png)
+![image alt](https://github.com/afaqahmad0118/afaqahmad0118/blob/439217322e6d8d2e3dd190151624e96ec9934068/MongoDB.png)
+![image alt](https://github.com/afaqahmad0118/afaqahmad0118/blob/439217322e6d8d2e3dd190151624e96ec9934068/Slack.png)
+![image alt](https://github.com/afaqahmad0118/afaqahmad0118/blob/439217322e6d8d2e3dd190151624e96ec9934068/Figma.png)
+![image alt]()
+![image alt]()
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/) 
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/) 
 [![MCP](https://img.shields.io/badge/MCP-6E6E6E?style=for-the-badge&logo=grey&logoColor=white)](https://en.wikipedia.org/wiki/Model_Context_Protocol) 
