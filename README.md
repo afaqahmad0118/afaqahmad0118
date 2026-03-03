@@ -35,6 +35,7 @@ A passionate Frontend Developer from Pakistan
 
 ### Frameworks / Libraries
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/) 
+![image alt](https://github.com/afaqahmad0118/afaqahmad0118/blob/5217f6808a8e3401af053c2200865f63825509c2/HTML5_logo_and_wordmark.svg.png)
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/) 
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/) 
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/) 
