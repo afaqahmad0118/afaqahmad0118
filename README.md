@@ -15,15 +15,15 @@ A passionate Frontend Developer from Pakistan
 
 ### Connect with me
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/afaqahmad0118) 
-![image alt](https://github.com/afaqahmad0118/afaqahmad0118/blob/cc77c6b63b44b98736a5596a9af6ca8a30511933/html-5.png)
-![image alt](https://github.com/afaqahmad0118/afaqahmad0118/blob/e2384ed950606a630fd7405e366c24495f1eddfe/css.png)
+<img src="https://github.com/afaqahmad0118/afaqahmad0118/blob/cc77c6b63b44b98736a5596a9af6ca8a30511933/html-5.png" width="30" height="30" alt="HTML5">
+<img src="https://github.com/afaqahmad0118/afaqahmad0118/blob/e2384ed950606a630fd7405e366c24495f1eddfe/css.png" width="30" height="30" alt="CSS3">
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/afaq-khan-07350425a/) 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:afaqahmad0118@gmail.com)
 
 ---
 
 ### Languages
-![HTML Logo](https://example.com/images/html-logo.png "HTML Logo Title")
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/) 
