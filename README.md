@@ -14,43 +14,51 @@ A passionate Frontend Developer from Pakistan
 ---
 
 ### Connect with me
-![image alt](https://github.com/afaqahmad0118/afaqahmad0118/blob/439217322e6d8d2e3dd190151624e96ec9934068/GitHub.png)
-![image alt](https://github.com/afaqahmad0118/afaqahmad0118/blob/45a2e0551e309941b38f6f595878c02d854a05f8/LinkedIn.png)
+<img src="https://github.com/afaqahmad0118/afaqahmad0118/blob/439217322e6d8d2e3dd190151624e96ec9934068/GitHub.png" width="40" height="40" alt="GitHub">
+<img src="https://github.com/afaqahmad0118/afaqahmad0118/blob/45a2e0551e309941b38f6f595878c02d854a05f8/LinkedIn.png" width="40" height="40" alt="LinkedIn">
+
 ---
+
 ### Languages
 <img src="https://github.com/afaqahmad0118/afaqahmad0118/blob/cc77c6b63b44b98736a5596a9af6ca8a30511933/html-5.png" width="50" height="50" alt="HTML5">
-![image alt](https://github.com/afaqahmad0118/afaqahmad0118/blob/31b1186e2a1393f38a78d023ba6f2a15c3833a0f/CSS3.png)
-![image alt](https://github.com/afaqahmad0118/afaqahmad0118/blob/439217322e6d8d2e3dd190151624e96ec9934068/JavaScript.png)
-![image alt](https://github.com/afaqahmad0118/afaqahmad0118/blob/439217322e6d8d2e3dd190151624e96ec9934068/TypeScript.png)
+<img src="https://github.com/afaqahmad0118/afaqahmad0118/blob/31b1186e2a1393f38a78d023ba6f2a15c3833a0f/CSS3.png" width="50" height="50" alt="CSS3">
+<img src="https://github.com/afaqahmad0118/afaqahmad0118/blob/439217322e6d8d2e3dd190151624e96ec9934068/JavaScript.png" width="50" height="50" alt="JavaScript">
+<img src="https://github.com/afaqahmad0118/afaqahmad0118/blob/439217322e6d8d2e3dd190151624e96ec9934068/TypeScript.png" width="50" height="50" alt="TypeScript">
+
 ---
+
 ### Frameworks / Libraries
-![image alt](https://github.com/afaqahmad0118/afaqahmad0118/blob/439217322e6d8d2e3dd190151624e96ec9934068/React.png) 
-![image alt](https://github.com/afaqahmad0118/afaqahmad0118/blob/439217322e6d8d2e3dd190151624e96ec9934068/Next.js.png) 
-![image alt](https://github.com/afaqahmad0118/afaqahmad0118/blob/439217322e6d8d2e3dd190151624e96ec9934068/Bootstrap.png) 
-![image alt](https://github.com/afaqahmad0118/afaqahmad0118/blob/439217322e6d8d2e3dd190151624e96ec9934068/Tailwind%20CSS.png) 
-![image alt](https://github.com/afaqahmad0118/afaqahmad0118/blob/439217322e6d8d2e3dd190151624e96ec9934068/Material%20UI.png) 
-![image alt]() 
+<img src="https://github.com/afaqahmad0118/afaqahmad0118/blob/439217322e6d8d2e3dd190151624e96ec9934068/React.png" width="50" height="50" alt="React">
+<img src="https://github.com/afaqahmad0118/afaqahmad0118/blob/439217322e6d8d2e3dd190151624e96ec9934068/Next.js.png" width="50" height="50" alt="Next.js">
+<img src="https://github.com/afaqahmad0118/afaqahmad0118/blob/0267267a0a3a8db7666b6e35e925dabc661cadf6/Nuxt%20JS.png" width="50" height="50" alt="Nuxt JS">
+<img src="https://github.com/afaqahmad0118/afaqahmad0118/blob/439217322e6d8d2e3dd190151624e96ec9934068/Bootstrap.png" width="50" height="50" alt="Bootstrap">
+<img src="https://github.com/afaqahmad0118/afaqahmad0118/blob/439217322e6d8d2e3dd190151624e96ec9934068/Tailwind%20CSS.png" width="50" height="50" alt="Tailwind CSS">
+<img src="https://github.com/afaqahmad0118/afaqahmad0118/blob/439217322e6d8d2e3dd190151624e96ec9934068/Material%20UI.png" width="50" height="50" alt="Material UI">
+
 ---
+
 ### CMS
-![image alt](https://github.com/afaqahmad0118/afaqahmad0118/blob/439217322e6d8d2e3dd190151624e96ec9934068/Drupal.png)
+<img src="https://github.com/afaqahmad0118/afaqahmad0118/blob/439217322e6d8d2e3dd190151624e96ec9934068/Drupal.png" width="50" height="50" alt="Drupal">
+
 ---
+
+### Cloud platform
+<img src="https://github.com/afaqahmad0118/afaqahmad0118/blob/0267267a0a3a8db7666b6e35e925dabc661cadf6/AWS.png" width="50" height="50" alt="AWS">
+
+---
+
+### DataBase
+<img src="https://github.com/afaqahmad0118/afaqahmad0118/blob/0267267a0a3a8db7666b6e35e925dabc661cadf6/MongoDB.png" width="50" height="50" alt="MongoDB">
+
+---
+
 ### Tools
-![image alt](https://github.com/afaqahmad0118/afaqahmad0118/blob/439217322e6d8d2e3dd190151624e96ec9934068/GitHub.png)
-![image alt](https://github.com/afaqahmad0118/afaqahmad0118/blob/439217322e6d8d2e3dd190151624e96ec9934068/GitLab.png)
-![image alt](https://github.com/afaqahmad0118/afaqahmad0118/blob/439217322e6d8d2e3dd190151624e96ec9934068/BitBucket.png)
-![image alt](https://github.com/afaqahmad0118/afaqahmad0118/blob/439217322e6d8d2e3dd190151624e96ec9934068/MongoDB.png)
-![image alt](https://github.com/afaqahmad0118/afaqahmad0118/blob/439217322e6d8d2e3dd190151624e96ec9934068/Slack.png)
-![image alt](https://github.com/afaqahmad0118/afaqahmad0118/blob/439217322e6d8d2e3dd190151624e96ec9934068/Figma.png)
-![image alt]()
-![image alt]()
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/) 
-[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/) 
-[![MCP](https://img.shields.io/badge/MCP-6E6E6E?style=for-the-badge&logo=grey&logoColor=white)](https://en.wikipedia.org/wiki/Model_Context_Protocol) 
-
----
-
-### AI Tools
-[![Claude AI](https://img.shields.io/badge/Claude_AI-4B0082?style=for-the-badge&logo=anthropic&logoColor=white)](https://www.anthropic.com/) 
-[![Windsurf](https://img.shields.io/badge/Windsurf-00AEEF?style=for-the-badge&logo=wind&logoColor=white)](https://windsurf.ai/) 
-[![Cursor.io](https://img.shields.io/badge/Cursor.io-FF9900?style=for-the-badge&logo=cursor&logoColor=white)](https://www.cursor.io/) 
-[![Builder.io](https://img.shields.io/badge/Builder.io-1C1C1C?style=for-the-badge&logo=builder&logoColor=white)](https://www.builder.io/)
+<img src="https://github.com/afaqahmad0118/afaqahmad0118/blob/0267267a0a3a8db7666b6e35e925dabc661cadf6/Git.png" width="50" height="50" alt="Git">
+<img src="https://github.com/afaqahmad0118/afaqahmad0118/blob/439217322e6d8d2e3dd190151624e96ec9934068/GitHub.png" width="50" height="50" alt="GitHub">
+<img src="https://github.com/afaqahmad0118/afaqahmad0118/blob/439217322e6d8d2e3dd190151624e96ec9934068/GitLab.png" width="50" height="50" alt="GitLab">
+<img src="https://github.com/afaqahmad0118/afaqahmad0118/blob/439217322e6d8d2e3dd190151624e96ec9934068/BitBucket.png" width="50" height="50" alt="BitBucket">
+<img src="https://github.com/afaqahmad0118/afaqahmad0118/blob/439217322e6d8d2e3dd190151624e96ec9934068/MongoDB.png" width="50" height="50" alt="MongoDB">
+<img src="https://github.com/afaqahmad0118/afaqahmad0118/blob/439217322e6d8d2e3dd190151624e96ec9934068/Slack.png" width="50" height="50" alt="Slack">
+<img src="https://github.com/afaqahmad0118/afaqahmad0118/blob/439217322e6d8d2e3dd190151624e96ec9934068/Figma.png" width="50" height="50" alt="Figma">
+<img src="https://github.com/afaqahmad0118/afaqahmad0118/blob/a8a1be2443aab367d8b9d3dfe6db9e14034c40ed/Linux.png" width="50" height="50" alt="Linux">
+<img src="https://github.com/afaqahmad0118/afaqahmad0118/blob/58535668995f78cdfa999f832d56fabbeee07f4a/Postman%20(1).png" width="50" height="50" alt="Postman">
