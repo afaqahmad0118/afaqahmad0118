@@ -22,7 +22,7 @@ A passionate Frontend Developer from Pakistan
 
 ### Languages
 ![HTML Logo](https://example.com/images/html-logo.png "HTML Logo Title")
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS) 
+[![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/) 
 [![Twig](https://img.shields.io/badge/Twig-30B3DB?style=for-the-badge&logo=twig&logoColor=white)](https://twig.symfony.com/)
