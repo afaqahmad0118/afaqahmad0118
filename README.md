@@ -56,12 +56,29 @@ A passionate Frontend Developer from Pakistan
 
 #### Frameworks / Libraries
 <p>
-  <img src="https://github.com/afaqahmad0118/afaqahmad0118/blob/439217322e6d8d2e3dd190151624e96ec9934068/React.png" width="50" height="50" alt="React">&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/afaqahmad0118/afaqahmad0118/blob/439217322e6d8d2e3dd190151624e96ec9934068/Next.js.png" width="50" height="50" alt="Next.js">&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/afaqahmad0118/afaqahmad0118/blob/0267267a0a3a8db7666b6e35e925dabc661cadf6/Nuxt%20JS.png" width="50" height="50" alt="Nuxt JS">&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/afaqahmad0118/afaqahmad0118/blob/439217322e6d8d2e3dd190151624e96ec9934068/Bootstrap.png" width="50" height="50" alt="Bootstrap">&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/afaqahmad0118/afaqahmad0118/blob/439217322e6d8d2e3dd190151624e96ec9934068/Tailwind%20CSS.png" width="50" height="50" alt="Tailwind CSS">&nbsp;&nbsp;&nbsp;&nbsp;
+ <a href="https://react.dev/" target="_blank" rel="noopener noreferrer">
+  <img src="https://github.com/afaqahmad0118/afaqahmad0118/blob/439217322e6d8d2e3dd190151624e96ec9934068/React.png" width="50" height="50" alt="React">
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://nextjs.org/" target="_blank" rel="noopener noreferrer">
+  <img src="https://github.com/afaqahmad0118/afaqahmad0118/blob/439217322e6d8d2e3dd190151624e96ec9934068/Next.js.png" width="50" height="50" alt="Next.js">
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://nuxt.com/" target="_blank" rel="noopener noreferrer">
+  <img src="https://github.com/afaqahmad0118/afaqahmad0118/blob/0267267a0a3a8db7666b6e35e925dabc661cadf6/Nuxt%20JS.png" width="50" height="50" alt="Nuxt JS">
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://getbootstrap.com/" target="_blank" rel="noopener noreferrer">
+  <img src="https://github.com/afaqahmad0118/afaqahmad0118/blob/439217322e6d8d2e3dd190151624e96ec9934068/Bootstrap.png" width="50" height="50" alt="Bootstrap">
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://tailwindcss.com/" target="_blank" rel="noopener noreferrer">
+  <img src="https://github.com/afaqahmad0118/afaqahmad0118/blob/439217322e6d8d2e3dd190151624e96ec9934068/Tailwind%20CSS.png" width="50" height="50" alt="Tailwind CSS">
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://mui.com/material-ui/" target="_blank" rel="noopener noreferrer">
   <img src="https://github.com/afaqahmad0118/afaqahmad0118/blob/439217322e6d8d2e3dd190151624e96ec9934068/Material%20UI.png" width="50" height="50" alt="Material UI">
+</a>
 </p>
 
 </td>
