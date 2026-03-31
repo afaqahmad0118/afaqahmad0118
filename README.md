@@ -92,7 +92,9 @@ A passionate Frontend Developer from Pakistan
 
 #### CMS
 <p>
+<a href="https://new.drupal.org/home" target="_blank" rel="noopener noreferrer">
   <img src="https://github.com/afaqahmad0118/afaqahmad0118/blob/439217322e6d8d2e3dd190151624e96ec9934068/Drupal.png" width="50" height="50" alt="Drupal">
+</a>
 </p>
 
 </td>
@@ -108,9 +110,17 @@ A passionate Frontend Developer from Pakistan
 
 #### Databases
 <p>
-  <img src="https://github.com/afaqahmad0118/afaqahmad0118/blob/0267267a0a3a8db7666b6e35e925dabc661cadf6/MongoDB.png" width="50" height="50" alt="MongoDB">&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/afaqahmad0118/afaqahmad0118/blob/8c73a2e764173de101a1821fde5357a7c171455c/Firebase.png" width="50" height="50" alt="Firebase">&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer">
+  <img src="https://github.com/afaqahmad0118/afaqahmad0118/blob/0267267a0a3a8db7666b6e35e925dabc661cadf6/MongoDB.png" width="50" height="50" alt="MongoDB">
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://firebase.google.com/" target="_blank" rel="noopener noreferrer">
+  <img src="https://github.com/afaqahmad0118/afaqahmad0118/blob/8c73a2e764173de101a1821fde5357a7c171455c/Firebase.png" width="50" height="50" alt="Firebase">
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer">
   <img src="https://github.com/afaqahmad0118/afaqahmad0118/blob/8c73a2e764173de101a1821fde5357a7c171455c/MySQL.png" width="50" height="50" alt="MySQL">
+</a>
 </p>
 
 </td>
@@ -119,12 +129,35 @@ A passionate Frontend Developer from Pakistan
 <!-- Row 3: Tools -->
  Tools
 <p>
-  <img src="https://github.com/afaqahmad0118/afaqahmad0118/blob/0267267a0a3a8db7666b6e35e925dabc661cadf6/Git.png" width="50" height="50" alt="Git">&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/afaqahmad0118/afaqahmad0118/blob/439217322e6d8d2e3dd190151624e96ec9934068/GitHub.png" width="50" height="50" alt="GitHub">&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/afaqahmad0118/afaqahmad0118/blob/439217322e6d8d2e3dd190151624e96ec9934068/GitLab.png" width="50" height="50" alt="GitLab">&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/afaqahmad0118/afaqahmad0118/blob/439217322e6d8d2e3dd190151624e96ec9934068/BitBucket.png" width="50" height="50" alt="BitBucket">&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/afaqahmad0118/afaqahmad0118/blob/439217322e6d8d2e3dd190151624e96ec9934068/Slack.png" width="50" height="50" alt="Slack">&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/afaqahmad0118/afaqahmad0118/blob/439217322e6d8d2e3dd190151624e96ec9934068/Figma.png" width="50" height="50" alt="Figma">&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/afaqahmad0118/afaqahmad0118/blob/a8a1be2443aab367d8b9d3dfe6db9e14034c40ed/Linux.png" width="50" height="50" alt="Linux">&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer">
+  <img src="https://github.com/afaqahmad0118/afaqahmad0118/blob/0267267a0a3a8db7666b6e35e925dabc661cadf6/Git.png" width="50" height="50" alt="Git">
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://github.com/" target="_blank" rel="noopener noreferrer">
+  <img src="https://github.com/afaqahmad0118/afaqahmad0118/blob/439217322e6d8d2e3dd190151624e96ec9934068/GitHub.png" width="50" height="50" alt="GitHub">
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://gitlab.com/users/sign_in" target="_blank" rel="noopener noreferrer">
+  <img src="https://github.com/afaqahmad0118/afaqahmad0118/blob/439217322e6d8d2e3dd190151624e96ec9934068/GitLab.png" width="50" height="50" alt="GitLab">
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://bitbucket.org/product/" target="_blank" rel="noopener noreferrer">
+  <img src="https://github.com/afaqahmad0118/afaqahmad0118/blob/439217322e6d8d2e3dd190151624e96ec9934068/BitBucket.png" width="50" height="50" alt="BitBucket">
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://slack.com/intl/en-gb/" target="_blank" rel="noopener noreferrer">
+  <img src="https://github.com/afaqahmad0118/afaqahmad0118/blob/439217322e6d8d2e3dd190151624e96ec9934068/Slack.png" width="50" height="50" alt="Slack">
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.figma.com/" target="_blank" rel="noopener noreferrer">
+  <img src="https://github.com/afaqahmad0118/afaqahmad0118/blob/439217322e6d8d2e3dd190151624e96ec9934068/Figma.png" width="50" height="50" alt="Figma">
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.linux.org/" target="_blank" rel="noopener noreferrer">
+  <img src="https://github.com/afaqahmad0118/afaqahmad0118/blob/a8a1be2443aab367d8b9d3dfe6db9e14034c40ed/Linux.png" width="50" height="50" alt="Linux">
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.postman.com/" target="_blank" rel="noopener noreferrer">
   <img src="https://github.com/afaqahmad0118/afaqahmad0118/blob/58535668995f78cdfa999f832d56fabbeee07f4a/Postman%20(1).png" width="50" height="50" alt="Postman">
+</a>
 </p>
