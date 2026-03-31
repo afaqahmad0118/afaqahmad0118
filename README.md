@@ -34,10 +34,21 @@ A passionate Frontend Developer from Pakistan
 
 #### Languages
 <p>
-  <img src="https://github.com/afaqahmad0118/afaqahmad0118/blob/cc77c6b63b44b98736a5596a9af6ca8a30511933/html-5.png" width="50" height="50" alt="HTML5">&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/afaqahmad0118/afaqahmad0118/blob/31b1186e2a1393f38a78d023ba6f2a15c3833a0f/CSS3.png" width="50" height="50" alt="CSS3">&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/afaqahmad0118/afaqahmad0118/blob/439217322e6d8d2e3dd190151624e96ec9934068/JavaScript.png" width="50" height="50" alt="JavaScript">&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://html.com/" target="_blank" rel="noopener noreferrer">
+  <img src="https://github.com/afaqahmad0118/afaqahmad0118/blob/cc77c6b63b44b98736a5596a9af6ca8a30511933/html-5.png" width="50" height="50" alt="HTML5">
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank" rel="noopener noreferrer">
+  <img src="https://github.com/afaqahmad0118/afaqahmad0118/blob/31b1186e2a1393f38a78d023ba6f2a15c3833a0f/CSS3.png" width="50" height="50" alt="CSS3">
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.javascript.com/" target="_blank" rel="noopener noreferrer">
+  <img src="https://github.com/afaqahmad0118/afaqahmad0118/blob/439217322e6d8d2e3dd190151624e96ec9934068/JavaScript.png" width="50" height="50" alt="JavaScript">
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer">
   <img src="https://github.com/afaqahmad0118/afaqahmad0118/blob/439217322e6d8d2e3dd190151624e96ec9934068/TypeScript.png" width="50" height="50" alt="TypeScript">
+</a>
 </p>
 
 </td>
