@@ -102,7 +102,9 @@ A passionate Frontend Developer from Pakistan
 
 #### Cloud Platform
 <p>
+  <a href="https://aws.amazon.com/" target="_blank" rel="noopener noreferrer">
   <img src="https://github.com/afaqahmad0118/afaqahmad0118/blob/0267267a0a3a8db7666b6e35e925dabc661cadf6/AWS.png" width="50" height="50" alt="AWS">
+</a>
 </p>
 
 </td>
