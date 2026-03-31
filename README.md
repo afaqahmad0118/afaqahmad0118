@@ -89,7 +89,7 @@ A passionate Frontend Developer from Pakistan
 </tr>
 </table>
 <!-- Row 3: Tools -->
-#### Tools
+ Tools
 <p>
   <img src="https://github.com/afaqahmad0118/afaqahmad0118/blob/0267267a0a3a8db7666b6e35e925dabc661cadf6/Git.png" width="50" height="50" alt="Git">&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/afaqahmad0118/afaqahmad0118/blob/439217322e6d8d2e3dd190151624e96ec9934068/GitHub.png" width="50" height="50" alt="GitHub">&nbsp;&nbsp;&nbsp;&nbsp;
