@@ -16,7 +16,9 @@ A passionate Frontend Developer from Pakistan
 ### Connect with me
 <p>
   <img src="https://github.com/afaqahmad0118/afaqahmad0118/blob/439217322e6d8d2e3dd190151624e96ec9934068/GitHub.png" width="50" height="50" alt="GitHub">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/afaq-khan-07350425a/" target="_blank" rel="noopener noreferrer">
   <img src="https://github.com/afaqahmad0118/afaqahmad0118/blob/45a2e0551e309941b38f6f595878c02d854a05f8/LinkedIn.png" width="50" height="50" alt="LinkedIn">
+</a>
 </p>
 
 ---
